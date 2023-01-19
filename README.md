@@ -1,2 +1,2 @@
-# mag
-comercio &amp; Servicos
+# MAG
+Fornecimento de produtos e servicos
